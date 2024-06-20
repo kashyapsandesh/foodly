@@ -37,7 +37,7 @@ class MainScreen extends StatelessWidget {
                         },
                         currentIndex: controller.tableIndex,
                         // showSelectedLabels: false,
-                        showUnselectedLabels: false,
+                        // showUnselectedLabels: false,
                         selectedIconTheme:
                             const IconThemeData(color: kSecondary),
                         unselectedIconTheme:

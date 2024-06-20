@@ -8,4 +8,11 @@ class CategoryController extends GetxController {
   set updateCategory(String newCategory) {
     _category.value = newCategory;
   }
-} 
+
+  RxString _title = ''.obs;
+  String get titleValue => _title.value;
+  //set catListIndex
+  set updateTitle(String value) {
+    _title.value = value;
+  }
+}

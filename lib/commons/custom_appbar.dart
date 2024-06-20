@@ -35,7 +35,7 @@ Widget customAppBar() {
                 radius: 20.r,
                 backgroundColor: kSecondary,
                 backgroundImage: const NetworkImage(
-                    "https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-600nw-1714666150.jpg"),
+                    "https://sb.kaleidousercontent.com/67418/1920x1281/0e9f02a048/christian-buehner-ditylc26zvi-unsplash.jpg"),
               ),
               Padding(
                 padding: EdgeInsets.only(bottom: 6.h, left: 8.w),
